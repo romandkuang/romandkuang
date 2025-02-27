@@ -1,3 +1,8 @@
+# Data Analyst
+
+### Education
+### Work Experience
+### Projects
 ## Hi there 👋
 
 <!--
