@@ -7,7 +7,7 @@ As a **Data Analyst**, I blend my experience in **food and beverage hospitality*
 
 As I grew, this curiosity naturally expanded into a broader interest in how **data could be applied to solve real-world problems.** My background in **customer service** opened my eyes to the **power of data in business, particularly in optimizing operations and improving customer experiences.**
 
-Over time, I realized that **data wasn’t just about numbers**, but about **uncovering hidden insights that could drive smarter decisions and create meaningful change**. Now, as I dive deeper into data analytics, I’m **passionate** about using data to solve challenges, identify trends, and help businesses and individuals make informed decisions that have a tangible impact.
+Over time, I realized that **data wasn’t just about numbers**, but about **uncovering hidden insights that could drive smarter decisions and create meaningful change**. Now, as I dive deeper into data analytics, I’m **passionate** about using data to solve challenges, identify trends, and help businesses and individuals make informed decisions that have a **tangible impact.**
 
 
 ## From Hospitality to Data  
