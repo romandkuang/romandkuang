@@ -48,7 +48,7 @@ I see data as a team sport:
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
 - [Email Me](mailto:romandkuang@gmail.com)  
-- [LinkedIn](linkedin.com/in/romand-kuang-6b3b5446/)  
+- [LinkedIn](http://linkedin.com/in/romand-kuang-6b3b5446/)  
 - [Portfolio](#)  
 - [GitHub](https://github.com/romandkuang)  
 
