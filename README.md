@@ -1,6 +1,7 @@
 # Data Analyst
 ### Technical Skills: Microsoft Excel, SQL, Power BI
 ## Education
+- B.S., Sociology | Portland State University (_June 2015_)
 ## Work Experience
 ## Projects
 ## Hi there 👋
