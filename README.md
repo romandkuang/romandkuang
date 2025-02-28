@@ -32,25 +32,22 @@ I’m currently transforming **transactional data** from a multi-location coffee
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
 ### Data Projects
-<div style="display: flex; gap: 20px;">
-
-  <!-- Box 1 -->
-  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; padding: 10px; box-sizing: border-box;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="Project 1" style="width: 100%; height: 100%; object-fit: cover;">
-    </a>
-    <p>Project 1: Maven Roaster Analysis</p>
-  </div>
-
-  <!-- Box 2 -->
-  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; padding: 10px; box-sizing: border-box;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="Project 2" style="width: 100%; height: 100%; object-fit: cover;">
-    </a>
-    <p>Project 2: Sales Dashboard</p>
-  </div>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div style="border: 2px solid #000; width: 150px; height: 150px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <img src="https://via.placeholder.com/100" alt="GitHub Project" style="width: 80px; height: 80px; margin-bottom: 10px;">
+        <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
+        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
+        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
+    </div>
+    <div style="border: 2px solid #000; width: 150px; height: 150px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <img src="https://via.placeholder.com/100" alt="GitHub Project" style="width: 80px; height: 80px; margin-bottom: 10px;">
+        <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
+        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
+        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
+    </div>
+    <!-- Add more boxes here as needed -->
 </div>
+
 
 
 ## 📬 Let’s Connect!  
