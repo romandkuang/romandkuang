@@ -31,21 +31,21 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
     <!-- Box 1 -->
-    <div style="border: 2px solid #000; height: 250px; text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <!-- Bigger Image -->
-        <img src="assets/img/mavencoffee.jpeg" alt="Maven Roasters" style="width: 120px; height: 120px; margin-bottom: 15px;">
+    <div style="text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <!-- Larger Image -->
+        <img src="https://via.placeholder.com/200" alt="GitHub Project" style="width: 180px; height: 180px; margin-bottom: 15px;">
         <!-- Common Title for All Boxes -->
         <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
         <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/romandkuang/Maven-Roasters-Project" target="_blank" style="display: inline-block; padding: 8px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
+        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 8px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
     </div>
 
     <!-- Box 2 -->
-    <div style="border: 2px solid #000; height: 250px; text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <!-- Bigger Image -->
-        <img src="https://via.placeholder.com/150" alt="GitHub Project" style="width: 120px; height: 120px; margin-bottom: 15px;">
+    <div style="text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+        <!-- Larger Image -->
+        <img src="https://via.placeholder.com/200" alt="GitHub Project" style="width: 180px; height: 180px; margin-bottom: 15px;">
         <!-- Common Title for All Boxes -->
         <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
         <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
@@ -54,6 +54,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 
     <!-- Add more boxes as needed -->
 </div>
+
 
 
 ## 📬 Let’s Connect!  
