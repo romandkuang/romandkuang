@@ -32,7 +32,7 @@ I’m currently transforming **transactional data** from a multi-location coffee
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
 ### Data Projects
-<div style="border: 2px solid #000; width: 200px; height: 200px; text-align: center; margin: 20px auto; background-color: #f9f9f9; padding: 20px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+<div style="border: 2px solid #000; width: 200px; height: 200px; text-align: center; margin: 20px auto; background-color: #f9f9f9; padding: 20px; display: flex; flex-direction: column; justify-content: center; align-items: left;">
     <!-- Square Image (replace with your actual image URL) -->
     <img src="assets/img/mavencoffee.jpeg0" alt="GitHub Project" style="width: 100px; height: 100px; margin-bottom: 10px;">
     <!-- Title and Description -->
