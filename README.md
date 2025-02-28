@@ -34,6 +34,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 - **Local Portland Advocate**: Proud to be part of a **tech-forward city** with a vibrant **community-focused mindset**.  
 
 ## 📬 Let’s Connect!  
+Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
 - [LinkedIn](#)  
 - [Portfolio](#)  
 - [GitHub](https://github.com/romandkuang)  
