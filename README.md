@@ -32,10 +32,10 @@ I’m currently transforming **transactional data** from a multi-location coffee
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
 ### Data Projects
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 100%; justify-content: flex-start;">
 
   <!-- Project 1 -->
-  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
+  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box; margin-bottom: 20px;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
       <img src="assets/img/mavencoffee.jpeg" alt="Project 1" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
@@ -43,7 +43,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
   </div>
 
   <!-- Project 2 -->
-  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
+  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box; margin-bottom: 20px;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
       <img src="assets/img/mavencoffee.jpeg" alt="Project 2" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
@@ -51,7 +51,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
   </div>
 
   <!-- Project 3 -->
-  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
+  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box; margin-bottom: 20px;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
       <img src="assets/img/mavencoffee.jpeg" alt="Project 3" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
@@ -59,8 +59,6 @@ Developing surveys and analyzing responses to help **coaches refine their strate
   </div>
 
 </div>
-
-
 
 
 ## 📬 Let’s Connect!  
