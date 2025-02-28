@@ -32,29 +32,31 @@ I’m currently transforming **transactional data** from a multi-location coffee
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
 ### Data Projects
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
-    <!-- Box 1 -->
-    <div style="border: 2px solid #000; height: 200px; text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <!-- Larger Image -->
-        <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 180px; height: 180px; margin-bottom: 15px;">
-        <!-- Common Title for All Boxes -->
-        <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
-        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 8px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
-    </div>
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-    <!-- Box 2 -->
-    <div style="border: 2px solid #000; height: 200px; text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <!-- Larger Image -->
-        <img src="https://via.placeholder.com/200" alt="GitHub Project" style="width: 180px; height: 180px; margin-bottom: 15px;">
-        <!-- Common Title for All Boxes -->
-        <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
-        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 8px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
-    </div>
+  <!-- Project 1 -->
+  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
+    <a href="https://github.com/username/project-repo-link" target="_blank">
+      <img src="assets/img/mavencoffee.jpeg" alt="Project 1" style="width: 100%; height: 100%; object-fit: cover;">
+    </a>
+    <p>Project 1: Maven Roaster Analysis</p>
+  </div>
 
-    <!-- Add more boxes as needed -->
-</div>
+  <!-- Project 2 -->
+  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
+    <a href="https://github.com/username/project-repo-link" target="_blank">
+      <img src="assets/img/mavencoffee.jpeg" alt="Project 2" style="width: 100%; height: 100%; object-fit: cover;">
+    </a>
+    <p>Project 2: Sales Dashboard</p>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
+    <a href="https://github.com/username/project-repo-link" target="_blank">
+      <img src="assets/img/mavencoffee.jpeg" alt="Project 3" style="width: 100%; height: 100%; object-fit: cover;">
+    </a>
+    <p>
+
 
 
 
