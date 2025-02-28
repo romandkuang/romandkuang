@@ -33,7 +33,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 
 ### Data Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="border: 2px solid #000; width: 300px; height: 300px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div style="border: 2px solid #000; width: 300px; height: 400px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
         <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 300px; height: 300px; margin-bottom: 10px;">
         <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
         <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
