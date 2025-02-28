@@ -35,8 +35,8 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 
   <!-- Box 1 -->
   <div style="width: 250px; text-align: center;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="https://via.placeholder.com/250" alt="GitHub Project" style="width: 100%; height: auto;">
+    <a href="[https://github.com/username/project-repo-link](https://github.com/romandkuang/Maven-Roasters-Project)" target="_blank">
+      <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 100%; height: auto;">
     </a>
     <p>Project 1</p>
   </div>
