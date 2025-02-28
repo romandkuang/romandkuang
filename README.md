@@ -31,9 +31,9 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
-<div style="display: flex; gap: 20px; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; justify-content: flex-start; flex-wrap: nowrap;">
     <!-- Box 1 -->
-    <div style="flex: 1 1 250px; height: 250px; position: relative; text-align: center; background-color: #f9f9f9; padding: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;">
+    <div style="flex: 0 0 250px; height: 250px; position: relative; text-align: center; background-color: #f9f9f9; padding: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;">
         <!-- Image fills the box -->
         <img src="https://via.placeholder.com/250" alt="GitHub Project" style="width: 100%; height: 100%; object-fit: cover;">
         <!-- Overlay Text -->
@@ -45,7 +45,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
     </div>
 
     <!-- Box 2 -->
-    <div style="flex: 1 1 250px; height: 250px; position: relative; text-align: center; background-color: #f9f9f9; padding: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;">
+    <div style="flex: 0 0 250px; height: 250px; position: relative; text-align: center; background-color: #f9f9f9; padding: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;">
         <!-- Image fills the box -->
         <img src="https://via.placeholder.com/250" alt="GitHub Project" style="width: 100%; height: 100%; object-fit: cover;">
         <!-- Overlay Text -->
@@ -58,6 +58,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 
     <!-- Add more boxes as needed -->
 </div>
+
 
 
 ## 📬 Let’s Connect!  
