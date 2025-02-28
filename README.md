@@ -32,36 +32,13 @@ I’m currently transforming **transactional data** from a multi-location coffee
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
 ### Data Projects
-<div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 100%; justify-content: flex-start;">
-
-  <!-- Project 1 -->
-  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/project1.jpeg" alt="Project 1" style="width: 100%; height: 100%; object-fit: cover;">
-    </a>
-    <p><strong>Project 1:</strong> Maven Roaster Sales Analysis</p>
-    <p>Tools: Power BI, SQL</p>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/project2.jpeg" alt="Project 2" style="width: 100%; height: 100%; object-fit: cover;">
-    </a>
-    <p><strong>Project 2:</strong> Sales Dashboard</p>
-    <p>Tools: Excel, Power BI</p>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/project3.jpeg" alt="Project 3" style="width: 100%; height: 100%; object-fit: cover;">
-    </a>
-    <p><strong>Project 3:</strong> Customer Purchase Behavior Analysis</p>
-    <p>Tools: Python, Pandas, Matplotlib</p>
-  </div>
-
+<div style="border: 2px solid #000; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
+    <h3>GitHub Project: Data Analysis Dashboard | Maven Roaster</h3>
+    <p>Built a dashboard in Excel to visualize transactional data and customer behavior for multiple locations.</p>
+    <p><strong>Key skills:</strong> Data exploration, pivot tables, trend analysis, business optimization.</p>
+    <p><a href="https://github.com/username/project-repo-link" target="_blank">GitHub Repo</a></p>
 </div>
+
 
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
