@@ -1,3 +1,4 @@
 title: Romand Kuang
-logo: assets/img/profile_photo.png
+<img src="assets/img/profile_photo.png" width="150">
+#logo: assets/img/profile_photo.png
 theme: jekyll-theme-minimal
