@@ -32,21 +32,13 @@ I’m currently transforming **transactional data** from a multi-location coffee
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
 ### Data Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="border: 2px solid #000; width: 150px; height: 150px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <img src="https://via.placeholder.com/100" alt="GitHub Project" style="width: 80px; height: 80px; margin-bottom: 10px;">
-        <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
-        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
-    </div>
-    <div style="border: 2px solid #000; width: 150px; height: 150px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <img src="https://via.placeholder.com/100" alt="GitHub Project" style="width: 80px; height: 80px; margin-bottom: 10px;">
-        <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
-        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
-    </div>
-    <!-- Add more boxes here as needed -->
+<div style="border: 2px solid #000; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
+    <h3>GitHub Project: Data Analysis Dashboard | Maven Roaster</h3>
+    <p>Built a dashboard in Excel to visualize transactional data and customer behavior for multiple locations.</p>
+    <p><strong>Key skills:</strong> Data exploration, pivot tables, trend analysis, business optimization.</p>
+    <p><a href="https://github.com/username/project-repo-link" target="_blank">GitHub Repo</a></p>
 </div>
+
 
 
 
