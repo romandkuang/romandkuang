@@ -1,10 +1,11 @@
-# Data Analyst
+# About Me
+**Hello! I'm Romand from Portland, OR. 
 ### Technical Skills: Microsoft Excel, SQL, Power BI
 ## Education
-- B.S., Sociology | Portland State University (_June 2015_)
+- B.S., Sociology | Portland State University ( _June 2015_ )
 ## Work Experience
 ## Projects
-## Hi there 👋
+
 
 <!--
 **romandkuang/romandkuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
