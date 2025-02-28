@@ -34,12 +34,6 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
-
-## 🌱 Beyond Data  
-- **Coffee Enthusiast**: Portland is home to some of the best coffee, and I’m always on the lookout for the next great brew.  
-- **Curious by Nature**: I’m constantly exploring **new analytics techniques**, finding ways to optimize processes, and learning from every dataset.  
-- **Local Portland Advocate**: Proud to be part of a **tech-forward city** with a vibrant **community-focused mindset**.  
-
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
 - [LinkedIn](#)  
