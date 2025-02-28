@@ -35,31 +35,33 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 <div style="display: flex; flex-wrap: wrap; gap: 20px; max-width: 100%; justify-content: flex-start;">
 
   <!-- Project 1 -->
-  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box; margin-bottom: 20px;">
+  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="Project 1" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="assets/img/project1.jpeg" alt="Project 1" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
-    <p>Project 1: Maven Roaster Analysis</p>
+    <p><strong>Project 1:</strong> Maven Roaster Sales Analysis</p>
+    <p>Tools: Power BI, SQL</p>
   </div>
 
   <!-- Project 2 -->
-  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box; margin-bottom: 20px;">
+  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="Project 2" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="assets/img/project2.jpeg" alt="Project 2" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
-    <p>Project 2: Sales Dashboard</p>
+    <p><strong>Project 2:</strong> Sales Dashboard</p>
+    <p>Tools: Excel, Power BI</p>
   </div>
 
   <!-- Project 3 -->
-  <div style="width: 200px; height: 200px; text-align: center; border: 1px solid #ccc; box-sizing: border-box; margin-bottom: 20px;">
+  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; box-sizing: border-box;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="Project 3" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="assets/img/project3.jpeg" alt="Project 3" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
-    <p>Project 3: Analytics Report</p>
+    <p><strong>Project 3:</strong> Customer Purchase Behavior Analysis</p>
+    <p>Tools: Python, Pandas, Matplotlib</p>
   </div>
 
 </div>
-
 
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
