@@ -13,9 +13,6 @@ Over time, I realized that data wasn’t just about numbers, but about uncoverin
 ## 🍽️ From Hospitality to Data  
 Working in fast-paced restaurant environments taught me how to **adapt, analyze, and improve** on the fly. Whether it was streamlining workflows, understanding customer behavior, or ensuring smooth service during rush hours, I was always looking for ways to make things better. Now, I do the same with **SQL, Power BI, and Excel**—except instead of food orders, I’m crunching numbers and building dashboards.  
 
-## 🏙️ Portland Vibes + Data  
-Living in Portland, I’ve always been surrounded by a **community-driven** spirit, which is why I love working with data that helps people and businesses grow. I’m passionate about using data to **optimize processes** and create smarter solutions, whether it’s a **local coffee shop** or a **large-scale operation**.  
-
 ## 🏀 Data with a Purpose  
 I see data as a team sport:  
 🏆 **Slam dunks** = When data drives meaningful **business transformation**.  
