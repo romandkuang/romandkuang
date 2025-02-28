@@ -1,3 +1,6 @@
 title: Romand Kuang
 logo: assets/img/profile_photo.png
+ {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on fds <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
 theme: jekyll-theme-minimal
