@@ -24,7 +24,7 @@ I see data as a team sport:
 - **Data Analysis**: SQL, Spreadsheets  
 - **Business Intelligence**: Customer & Market Insights, Survey Design  
 
-## 🔥 What I’m Working On  
+## Stakeholder Projects
 ### ☕ **Maven Roaster Sales Analysis**  
 I’m currently transforming **transactional data** from a multi-location coffee chain into a **dynamic dashboard** that provides insights on **sales patterns**, **staffing efficiency**, and **customer behavior**.  
 
