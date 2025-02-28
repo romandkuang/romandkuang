@@ -31,25 +31,15 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
-<div style="display: flex; gap: 20px;">
+### Data Projects
 
-  <!-- Box 1 -->
-  <div style="width: 250px; text-align: center; border: 1px solid #ccc; padding: 10px;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 100%; height: auto;">
-    </a>
-    <p>Project 1</p>
-  </div>
+#### [Project 1: Maven Roaster Analysis](https://github.com/username/project-repo-link)  
+![Maven Roaster Project](assets/img/mavencoffee.jpeg)  
+A data-driven analysis of sales trends, staffing efficiency, and customer behavior across multiple locations.
 
-  <!-- Box 2 -->
-  <div style="width: 250px; text-align: center; border: 1px solid #ccc; padding: 10px;">
-    <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 100%; height: auto;">
-    </a>
-    <p>Project 2</p>
-  </div>
-
-</div>
+#### [Project 2: Sales Dashboard](https://github.com/username/project-repo-link)  
+![Sales Dashboard](assets/img/mavencoffee.jpeg)  
+A dynamic sales dashboard built using Power BI to track key business metrics and performance indicators.
 
 
 ## 📬 Let’s Connect!  
