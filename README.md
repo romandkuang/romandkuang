@@ -50,7 +50,7 @@ Let’s connect and discover how we can transform data into meaningful insights 
 - [Email Me](mailto:romandkuang@gmail.com)  
 - [LinkedIn](http://linkedin.com/in/romand-kuang-6b3b5446/)  
 - [Portfolio](#)  
-- [GitHub](https://github.com/romandkuang)  
+- [GitHub](https://romandkuang.github.io/romandkuang/))  
 
 
 
