@@ -1,3 +1,6 @@
 title: Romand Kuang
 logo: assets/img/profile_photo.png
 theme: jekyll-theme-minimal
+github:
+  zip_url: {{ site.github.zip_url }}
+  another_url: https://romandkuang.github.io/romandkuang/
