@@ -1,8 +1,8 @@
 # Data Analyst
 ### Technical Skills: Microsoft Excel, SQL, Power BI
-### Education
-### Work Experience
-### Projects
+## Education
+## Work Experience
+## Projects
 ## Hi there 👋
 
 <!--
