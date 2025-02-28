@@ -1,7 +1,14 @@
 # About Me
 **Hey there, I’m Romand from Portland, Oregon!** 👋  
 
-As a **Data Analyst**, I blend my experience in **food and beverage hospitality** where I spent over a decade mastering the art of problem-solving, efficiency, and delivering top-tier experiences. Now, I apply that same mindset to **data analytics**, uncovering trends, optimizing operations, and helping businesses make smarter decisions. Now, I’m bringing that same mindset to **data analytics**, using **Power BI, SQL**, and **Excel** to help businesses streamline operations, improve decision-making, and boost performance. 
+As a **Data Analyst**, I blend my experience in **food and beverage hospitality** where I spent over a decade mastering the art of problem-solving, efficiency, and delivering top-tier experiences. Now, I apply that same mindset to **data analytics**, uncovering trends, optimizing operations, and helping businesses make smarter decisions. 
+
+My fascination with data started with an early love for sports analytics, especially basketball stats. I was always intrigued by how numbers and data points could tell a bigger story—whether it was tracking player performance or understanding team dynamics. 
+
+As I grew, this curiosity naturally expanded into a broader interest in how data could be applied to solve real-world problems. My background in customer service opened my eyes to the power of data in business, particularly in optimizing operations and improving customer experiences.
+
+Over time, I realized that data wasn’t just about numbers, but about uncovering hidden insights that could drive smarter decisions and create meaningful change. Now, as I dive deeper into data analytics, I’m passionate about using data to solve challenges, identify trends, and help businesses make informed decisions that have a tangible impact.
+
 
 ## 🍽️ From Hospitality to Data  
 Working in fast-paced restaurant environments taught me how to **adapt, analyze, and improve** on the fly. Whether it was streamlining workflows, understanding customer behavior, or ensuring smooth service during rush hours, I was always looking for ways to make things better. Now, I do the same with **SQL, Power BI, and Excel**—except instead of food orders, I’m crunching numbers and building dashboards.  
