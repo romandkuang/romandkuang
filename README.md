@@ -39,7 +39,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
         <!-- Common Title for All Boxes -->
         <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
         <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 8px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
+        <a href="https://github.com/romandkuang/Maven-Roasters-Project" target="_blank" style="display: inline-block; padding: 8px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
     </div>
 
     <!-- Box 2 -->
