@@ -35,7 +35,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
     <!-- Box 1 -->
     <div style="border: 2px solid #000; height: 250px; text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
         <!-- Bigger Image -->
-        <img src="https://via.placeholder.com/150" alt="GitHub Project" style="width: 120px; height: 120px; margin-bottom: 15px;">
+        <img src="assets/img/mavencoffee.jpeg" alt="Maven Roasters" style="width: 120px; height: 120px; margin-bottom: 15px;">
         <!-- Common Title for All Boxes -->
         <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
         <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
