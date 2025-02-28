@@ -31,12 +31,12 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<div style="display: flex; gap: 20px; justify-content: space-between; flex-wrap: wrap;">
     <!-- Box 1 -->
     <div style="flex: 1 1 250px; height: 250px; position: relative; text-align: center; background-color: #f9f9f9; padding: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;">
         <!-- Image fills the box -->
         <img src="https://via.placeholder.com/250" alt="GitHub Project" style="width: 100%; height: 100%; object-fit: cover;">
-        <!-- Common Title for All Boxes -->
+        <!-- Overlay Text -->
         <div style="position: absolute; bottom: 10px; left: 0; right: 0; padding: 10px; background-color: rgba(0, 0, 0, 0.5); color: white;">
             <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
             <p style="font-size: 12px; margin: 5px 0; color: #ddd;">Maven Roaster</p>
@@ -48,10 +48,16 @@ Developing surveys and analyzing responses to help **coaches refine their strate
     <div style="flex: 1 1 250px; height: 250px; position: relative; text-align: center; background-color: #f9f9f9; padding: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; overflow: hidden;">
         <!-- Image fills the box -->
         <img src="https://via.placeholder.com/250" alt="GitHub Project" style="width: 100%; height: 100%; object-fit: cover;">
-        <!-- Common Title for All Boxes -->
+        <!-- Overlay Text -->
         <div style="position: absolute; bottom: 10px; left: 0; right: 0; padding: 10px; background-color: rgba(0, 0, 0, 0.5); color: white;">
             <h4 style="font-size: 16px; margin: 0; font-weight: bold;">Project Showcase</h4>
-            <p style="font-size: 12px; margin: 5px 0; color: #ddd;">Ma
+            <p style="font-size: 12px; margin: 5px 0; color: #ddd;">Maven Roaster</p>
+            <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 8px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
+        </div>
+    </div>
+
+    <!-- Add more boxes as needed -->
+</div>
 
 
 ## 📬 Let’s Connect!  
