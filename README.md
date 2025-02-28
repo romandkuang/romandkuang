@@ -10,16 +10,16 @@ As I grew, this curiosity naturally expanded into a broader interest in how **da
 Over time, I realized that **data wasn’t just about numbers**, but about **uncovering hidden insights that could drive smarter decisions and create meaningful change**. Now, as I dive deeper into data analytics, I’m **passionate** about using data to solve challenges, identify trends, and help businesses and individuals make informed decisions that have a tangible impact.
 
 
-## 🍽️ From Hospitality to Data  
+## From Hospitality to Data  
 Working in fast-paced restaurant environments taught me how to **adapt, analyze, and improve** on the fly. Whether it was streamlining workflows, understanding customer behavior, or ensuring smooth service during rush hours, I was always looking for ways to make things better. Now, I do the same with **SQL, Power BI, and Excel**—except instead of food orders, I’m crunching numbers and building dashboards.  
 
-## 🏀 Data with a Purpose  
+## Data with a Purpose  
 I see data as a team sport:  
 🏆 **Slam dunks** = When data drives meaningful **business transformation**.  
 💭 **Assists** = Helping teams make **data-informed decisions** that lead to action.  
 ❌ **Airballs** = Every missed shot is an opportunity to **refine strategies**.  
 
-## 💻 My Tech Stack  
+## My Tech Stack  
 - **Data Visualization**: Power BI, Excel (PivotTables, Charts)  
 - **Data Analysis**: SQL, Spreadsheets  
 - **Business Intelligence**: Customer & Market Insights, Survey Design  
