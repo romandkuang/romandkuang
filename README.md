@@ -31,9 +31,9 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
     <!-- Box 1 -->
-    <div style="text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div style="flex: 1 1 250px; text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
         <!-- Larger Image -->
         <img src="https://via.placeholder.com/200" alt="GitHub Project" style="width: 180px; height: 180px; margin-bottom: 15px;">
         <!-- Common Title for All Boxes -->
@@ -43,7 +43,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
     </div>
 
     <!-- Box 2 -->
-    <div style="text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div style="flex: 1 1 250px; text-align: center; background-color: #f9f9f9; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
         <!-- Larger Image -->
         <img src="https://via.placeholder.com/200" alt="GitHub Project" style="width: 180px; height: 180px; margin-bottom: 15px;">
         <!-- Common Title for All Boxes -->
