@@ -51,7 +51,7 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
-- [Email Me](mailto:example@example.com)  
+- [Email Me](mailto:romandkuang@gmail.com)  
 - [LinkedIn](linkedin.com/in/romand-kuang-6b3b5446/)  
 - [Portfolio](#)  
 - [GitHub](https://github.com/romandkuang)  
