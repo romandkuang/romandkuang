@@ -1,5 +1,5 @@
 # About Me
-**Hello! I'm Romand from Portland, OR. 
+**Hello! I'm Romand from Portland, OR.**
 ### Technical Skills: Microsoft Excel, SQL, Power BI
 ## Education
 - B.S., Sociology | Portland State University ( _June 2015_ )
