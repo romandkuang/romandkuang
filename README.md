@@ -31,12 +31,25 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
-[![Project 1](https://via.placeholder.com/250)](https://github.com/username/project-repo-link)  
-_Project 1_
+<div style="display: flex; gap: 20px;">
 
-[![Project 2](https://via.placeholder.com/250)](https://github.com/username/project-repo-link)  
-_Project 2_
+  <!-- Box 1 -->
+  <div style="width: 250px; text-align: center;">
+    <a href="https://github.com/username/project-repo-link" target="_blank">
+      <img src="https://via.placeholder.com/250" alt="GitHub Project" style="width: 100%; height: auto;">
+    </a>
+    <p>Project 1</p>
+  </div>
 
+  <!-- Box 2 -->
+  <div style="width: 250px; text-align: center;">
+    <a href="https://github.com/username/project-repo-link" target="_blank">
+      <img src="https://via.placeholder.com/250" alt="GitHub Project" style="width: 100%; height: auto;">
+    </a>
+    <p>Project 2</p>
+  </div>
+
+</div>
 
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
