@@ -3,11 +3,11 @@
 
 As a **Data Analyst**, I blend my experience in **food and beverage hospitality** where I spent over a decade mastering the art of problem-solving, efficiency, and delivering top-tier experiences. Now, I apply that same mindset to **data analytics**, uncovering trends, optimizing operations, and helping businesses make smarter decisions. 
 
-*My fascination with data* started with an early love for *sports analytics, especially basketball stats.* I was always intrigued by how *numbers and data points* could *tell a bigger story*—whether it was tracking player performance or understanding team dynamics. By analyzing *metrics* like points scored, plus-minus, and player efficiency ratings, I saw how stats could reveal how individual players impact team performance, identify strengths and weaknesses, and guide strategy.
+**My fascination with data** started with an early love for **sports analytics, especially basketball stats.** I was always intrigued by how **numbers and data points** could **tell a bigger story**—whether it was tracking player performance or understanding team dynamics. By analyzing **metrics** like **points scored, plus-minus, and player efficiency ratings**, I saw how stats could reveal how **individual players impact team performance, identify strengths and weaknesses, and guide strategy.**
 
-As I grew, this curiosity naturally expanded into a broader interest in how data could be applied to solve real-world problems. My background in customer service opened my eyes to the power of data in business, particularly in optimizing operations and improving customer experiences.
+As I grew, this curiosity naturally expanded into a broader interest in how **data could be applied to solve real-world problems.** My background in **customer service** opened my eyes to the **power of data in business, particularly in optimizing operations and improving customer experiences.**
 
-Over time, I realized that data wasn’t just about numbers, but about uncovering hidden insights that could drive smarter decisions and create meaningful change. Now, as I dive deeper into data analytics, I’m passionate about using data to solve challenges, identify trends, and help businesses and individuals make informed decisions that have a tangible impact.
+Over time, I realized that **data wasn’t just about numbers**, but about **uncovering hidden insights that could drive smarter decisions and create meaningful change**. Now, as I dive deeper into data analytics, I’m **passionate** about using data to solve challenges, identify trends, and help businesses and individuals make informed decisions that have a tangible impact.
 
 
 ## 🍽️ From Hospitality to Data  
