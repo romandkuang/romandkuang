@@ -55,11 +55,10 @@ Developing surveys and analyzing responses to help **coaches refine their strate
     <a href="https://github.com/username/project-repo-link" target="_blank">
       <img src="assets/img/mavencoffee.jpeg" alt="Project 3" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
-    <p>
+    <p>Project 3: Analytics Report</p>
+  </div>
 
-
-
-
+</div>
 
 
 
