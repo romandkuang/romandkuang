@@ -35,17 +35,17 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 <div style="display: flex; gap: 20px;">
 
   <!-- Box 1 -->
-  <div style="width: 45%; text-align: center; border: 1px solid #ccc; padding: 10px; box-sizing: border-box; height: 300px; overflow: hidden;">
+  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; padding: 10px; box-sizing: border-box;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="Project 1" style="width: 100%; height: auto;">
+      <img src="assets/img/mavencoffee.jpeg" alt="Project 1" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
     <p>Project 1: Maven Roaster Analysis</p>
   </div>
 
   <!-- Box 2 -->
-  <div style="width: 45%; text-align: center; border: 1px solid #ccc; padding: 10px; box-sizing: border-box; height: 300px; overflow: hidden;">
+  <div style="width: 250px; height: 250px; text-align: center; border: 1px solid #ccc; padding: 10px; box-sizing: border-box;">
     <a href="https://github.com/username/project-repo-link" target="_blank">
-      <img src="assets/img/mavencoffee.jpeg" alt="Project 2" style="width: 100%; height: auto;">
+      <img src="assets/img/mavencoffee.jpeg" alt="Project 2" style="width: 100%; height: 100%; object-fit: cover;">
     </a>
     <p>Project 2: Sales Dashboard</p>
   </div>
