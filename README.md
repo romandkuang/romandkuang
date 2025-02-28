@@ -31,6 +31,17 @@ I’m currently transforming **transactional data** from a multi-location coffee
 ### 🎯 **Coaching & Leadership Survey Analysis**  
 Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
 
+<div style="border: 2px solid #000; padding: 20px; text-align: center; margin: 20px 0; background-color: #f9f9f9;">
+    <!-- If you want to use an image, replace the below with an image tag -->
+    <img src="[https://via.placeholder.com/150](https://romandkuang.github.io/romandkuang/assets/img/profile_photo.png)" alt="GitHub Project" style="width: 100px; height: 100px; margin-bottom: 10px;">
+    <h3>Data Analysis Dashboard | Maven Roaster</h3>
+    <p>Click the box to view the project details and repository on GitHub.</p>
+    <a href="https://github.com/username/project-repo-link" target="_blank" style="display: block; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+        Go to GitHub Repo
+    </a>
+</div>
+
+
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
 - [LinkedIn](linkedin.com/in/romand-kuang-6b3b5446/)  
