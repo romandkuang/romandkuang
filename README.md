@@ -25,13 +25,6 @@ I see data as a team sport:
 - **Business Intelligence**: Customer & Market Insights, Survey Design  
 
 ## Stakeholder Projects
-### ☕ **Maven Roaster Sales Analysis**  
-I’m currently transforming **transactional data** from a multi-location coffee chain into a **dynamic dashboard** that provides insights on **sales patterns**, **staffing efficiency**, and **customer behavior**.  
-
-### 🎯 **Coaching & Leadership Survey Analysis**  
-Developing surveys and analyzing responses to help **coaches refine their strategies** based on real feedback and impact measurement.  
-
-### Data Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     
     <div style="border: 2px solid #000; width: 200px; height: 250px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: left;">
