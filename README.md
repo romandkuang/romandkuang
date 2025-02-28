@@ -34,13 +34,13 @@ Developing surveys and analyzing responses to help **coaches refine their strate
 ### Data Projects
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div style="border: 2px solid #000; width: 200px; height: 200px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 150px; height: 150px; margin-bottom: 10px;">
+        <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 200px; height: 200px; margin-bottom: 10px;">
         <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
         <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
         <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
     </div>
     <div style="border: 2px solid #000; width: 200px; height: 200px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <img src="https://via.placeholder.com/100" alt="GitHub Project" style="width: 150px; height: 150px; margin-bottom: 10px;">
+        <img src="https://via.placeholder.com/100" alt="GitHub Project" style="width: 200px; height: 200px; margin-bottom: 10px;">
         <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
         <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
         <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
