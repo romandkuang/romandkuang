@@ -25,14 +25,13 @@ I see data as a team sport:
 
 ## Stakeholder Projects
 
-<div align="center">
-  <div style="border: 2px solid #000; width: 200px; height: 250px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center;">
-    <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 200px; height: 200px; margin-bottom: 10px;">
-    <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
-    <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-    <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
-  </div>
-</div>
+[![Maven Roasters Dashboard](assets/img/mavencoffee.jpeg)](https://github.com/romandkuang/Maven-Roasters-Project)
+
+**Data Analysis Dashboard**  
+[Maven Roaster Project](https://github.com/romandkuang/Maven-Roasters-Project)
+
+
+
 
 ## 📬 Let’s Connect!  
 Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!  
