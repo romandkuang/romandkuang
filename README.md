@@ -9,7 +9,6 @@ As I grew, this curiosity naturally expanded into a broader interest in how **da
 
 Over time, I realized that **data wasn’t just about numbers**, but about **uncovering hidden insights that could drive smarter decisions and create meaningful change**. Now, as I dive deeper into data analytics, I’m **passionate** about using data to solve challenges, identify trends, and help businesses and individuals make informed decisions that have a **tangible impact.**
 
-
 ## From Hospitality to Data  
 Working in fast-paced restaurant environments taught me how to **adapt, analyze, and improve** on the fly. Whether it was streamlining workflows, understanding customer behavior, or ensuring smooth service during rush hours, I was always looking for ways to make things better. Now, I do the same with **SQL, Power BI, and Excel**—except instead of food orders, I’m crunching numbers and building dashboards.  
 
@@ -25,48 +24,19 @@ I see data as a team sport:
 - **Business Intelligence**: Customer & Market Insights, Survey Design  
 
 ## Stakeholder Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    
-    <div style="border: 2px solid #000; width: 200px; height: 250px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: left;">
-        <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 200px; height: 200px; margin-bottom: 10px;">
-        <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
-        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
-    </div>
 
-    <div style="border: 2px solid #000; width: 200px; height: 250px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: right;">
-        <img src="https://via.placeholder.com/100" alt="GitHub Project" style="width: 200px; height: 200px; margin-bottom: 10px;">
-        <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
-        <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
-        <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
-    </div>
-    <!-- Add more boxes here as needed -->
+<div align="center">
+  <div style="border: 2px solid #000; width: 200px; height: 250px; text-align: center; margin: 10px; background-color: #f9f9f9; padding: 10px; display: flex; flex-direction: column; justify-content: center;">
+    <img src="assets/img/mavencoffee.jpeg" alt="GitHub Project" style="width: 200px; height: 200px; margin-bottom: 10px;">
+    <h4 style="font-size: 14px; margin: 0; font-weight: bold;">Data Analysis Dashboard</h4>
+    <p style="font-size: 12px; margin: 5px 0; color: #666;">Maven Roaster</p>
+    <a href="https://github.com/username/project-repo-link" target="_blank" style="display: inline-block; padding: 6px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 12px;">Go to GitHub</a>
+  </div>
 </div>
 
-
-<br>
 ## 📬 Let’s Connect!  
-Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!
+Let’s connect and discover how we can transform data into meaningful insights and harness its full potential!  
 - [Email Me](mailto:romandkuang@gmail.com)  
 - [LinkedIn](http://linkedin.com/in/romand-kuang-6b3b5446/)  
 - [Portfolio](#)  
-- [GitHub](https://romandkuang.github.io/romandkuang/)  
-
-
-
-
-
-<!--
-**romandkuang/romandkuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GitHub](https://romandkuang.github.io/romandkuang/)
