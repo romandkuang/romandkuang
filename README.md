@@ -1,7 +1,7 @@
 # About Me
 **Hey there, I’m Romand from Portland, Oregon!** 👋  
 
-As an aspiring **Data Analyst**, I blend my experience in **food and beverage hospitality** where I spent over a decade mastering the art of problem-solving, efficiency, and delivering top-tier experiences. Now, I apply that same mindset to **data analytics**, uncovering trends, optimizing operations, and helping businesses make smarter decisions. 
+As a data-driven professional, I blend my experience in **food and beverage hospitality** where I spent over a decade mastering the art of problem-solving, efficiency, and delivering top-tier experiences. Now, I apply that same mindset to **data analytics**, uncovering trends, optimizing operations, and helping businesses make smarter decisions. 
 
 **My fascination with data** started with an early love for **sports analytics, especially basketball stats.** I was always intrigued by how **numbers and data points** could **tell a bigger story**—whether it was tracking player performance or understanding team dynamics. By analyzing **metrics** like **points scored, plus-minus, and player efficiency ratings**, I saw how stats could reveal how **individual players impact team performance, identify strengths and weaknesses, and guide strategy.**
 
