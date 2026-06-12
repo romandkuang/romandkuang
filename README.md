@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/rk-monogram.png" width="120" alt="RK Monogram Logo" />
+<img src="assets/banner.png" width="500" alt="RK Monogram Logo" />
 
 # Romand Kuang
 
 ### Data Analyst | Healthcare Operations | SQL | Power BI | Excel
 
 I build practical analytics projects that turn raw operational data into dashboards, KPI reporting, and business recommendations.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,35:2563EB,70:7C3AED,100:14B8A6&height=6&section=header" />
 
-<br>
 
 <a href="mailto:romandkuang@gmail.com">
   <img src="https://img.shields.io/badge/Open%20for%20Hire-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,13 +20,10 @@ I build practical analytics projects that turn raw operational data into dashboa
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<br>
-<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,35:2563EB,70:7C3AED,100:14B8A6&height=6&section=header" />
 
 <br>
-<br>
+
 
 <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -51,7 +48,6 @@ My background combines hands-on experience in healthcare service operations with
 My goal is to build analyst work that is not just visually clean, but useful, explainable, and connected to real business decisions.
 
 ---
-
 ## Open for Hire
 
 <div align="center">
