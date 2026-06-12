@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="500" alt="RK Monogram Logo" />
+<img src="assets/banner.png" width="600" alt="RK Monogram Logo" />
 
 # Romand Kuang
 
