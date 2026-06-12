@@ -33,8 +33,11 @@ I build practical analytics projects that turn raw operational data into dashboa
 </div>
 
 ---
+<div align="center">
 
 ## About Me
+
+</div>
 
 I am a data analyst focused on healthcare operations, KPI reporting, dashboard development, and business decision support.
 
@@ -48,11 +51,15 @@ My background combines hands-on experience in healthcare service operations with
 My goal is to build analyst work that is not just visually clean, but useful, explainable, and connected to real business decisions.
 
 ---
+<div align="center">
+  
 ## Open for Hire
+</div>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Currently%20Open%20To-Data%20Analyst%20Roles-14B8A6?style=for-the-badge" />
+<br>
 <img src="https://img.shields.io/badge/Also%20Open%20To-Business%20Analyst%20%7C%20Operations%20Analyst-7C3AED?style=for-the-badge" />
 
 </div>
@@ -61,13 +68,15 @@ I am open to **Data Analyst**, **Business Analyst**, **Operations Analyst**, and
 
 ---
 
-## Core Toolkit
 
+## Core Toolkit
+</div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/SQL-Data%20Analysis-2563EB?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Excel-KPI%20Reporting-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Data%20Cleaning-ETL-4B5563?style=flat-square" />
 <img src="https://img.shields.io/badge/Business%20Intelligence-Reporting-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/Healthcare%20Analytics-Operations-0F766E?style=flat-square" />
@@ -84,8 +93,8 @@ I am open to **Data Analyst**, **Business Analyst**, **Operations Analyst**, and
 
 ---
 
-## Featured Projects
 
+## Featured Projects
 ### Oregon Hospital Readmission Analysis
 
 **Healthcare analytics project using SQL and Power BI to identify readmission risk across Oregon hospitals.**
@@ -133,6 +142,8 @@ This project explores revenue trends, product performance, location performance,
 **Tools Used**
 
 `Excel` `Dashboard Design` `Sales Analysis` `KPI Reporting`
+
+
 
 **Skills Demonstrated**
 
