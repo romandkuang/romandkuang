@@ -95,6 +95,51 @@ I am open to **Data Analyst**, **Business Analyst**, **Operations Analyst**, and
 
 
 ## Featured Projects
+
+---
+### Hospital Performance Analysis
+
+**Healthcare analytics project using SQL and Power BI to evaluate hospital utilization, payer coverage risk, procedure activity, and 30-day return behavior.**
+
+This project analyzes synthetic hospital performance data to identify where operational demand, revenue-cycle exposure, and repeat utilization are most concentrated. The final deliverables include a Power BI dashboard, SQL analysis, stakeholder presentation, and GitHub case study.
+
+**Business Questions Answered**
+
+* Which encounter classes drive the most hospital activity?
+* What percentage of encounters are completed within 24 hours?
+* How much financial exposure is tied to zero payer coverage?
+* Which procedures create the most operational volume or cost intensity?
+* Which patients account for the largest share of 30-day return events?
+* What actions should leadership prioritize across operations, revenue cycle, and care management?
+
+**Key Findings**
+
+* **80.7%** of encounters came from ambulatory, outpatient, and urgent-care services
+* **95.9%** of encounters lasted under 24 hours
+* Zero-coverage encounters represented approximately **$63.1M** in claim value
+* The top 10 patients accounted for **34.1%** of 30-day return events
+
+**Tools Used**
+
+`SQL` `MySQL` `Power BI` `Power Query` `DAX` `Healthcare Analytics` `Stakeholder Reporting`
+
+**Skills Demonstrated**
+
+* SQL aggregation and window functions
+* Healthcare KPI analysis
+* Power BI data modeling
+* DAX measure creation
+* Dashboard design
+* Revenue-cycle risk analysis
+* Executive summary writing
+* Stakeholder presentation development
+
+[![View Project](https://img.shields.io/badge/View%20Project-14B8A6?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/romandkuang/Hospital-Performance-Analysis)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-2563EB?style=for-the-badge\&logo=powerbi\&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZjNjZGQ3ZmQtNmM5MS00Zjg1LTliYmMtNTM3YzczNDJlOTY2IiwidCI6ImYyNTUyZTQ3LTkzMTYtNDBmYy05ZjAwLTdmODU4MmMxYTFkMyIsImMiOjZ9)
+
+---
+
+
 ### Oregon Hospital Readmission Analysis
 
 **Healthcare analytics project using SQL and Power BI to identify readmission risk across Oregon hospitals.**
